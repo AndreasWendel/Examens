@@ -1,5 +1,5 @@
 # Databricks notebook source
-!pip install yfinance
+pip install yfinance
 
 # COMMAND ----------
 
