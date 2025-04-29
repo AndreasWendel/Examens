@@ -1,0 +1,53 @@
+Technology
+AAPL – Apple Inc.
+
+MSFT – Microsoft Corp.
+
+NVDA – NVIDIA Corp.
+
+🏦 Financials
+JPM – JPMorgan Chase & Co.
+
+BAC – Bank of America
+
+GS – Goldman Sachs Group Inc.
+
+🏘️ Real Estate
+PLD – Prologis Inc.
+
+O – Realty Income Corp.
+
+SPG – Simon Property Group Inc.
+
+🛢️ Energy
+XOM – Exxon Mobil Corp.
+
+CVX – Chevron Corp.
+
+SLB – Schlumberger Limited
+
+🛍️ E-commerce / Retail
+AMZN – Amazon.com Inc.
+
+WMT – Walmart Inc.
+
+TGT – Target Corp.
+
+🍔 Foods and Consumables
+KO – Coca-Cola Co.
+
+PG – Procter & Gamble Co.
+
+PEP – PepsiCo Inc.
+
+🏥 Healthcare
+JNJ – Johnson & Johnson
+
+PFE – Pfizer Inc.
+
+🎬 Entertainment (Optional extras if you want to expand)
+NFLX – Netflix Inc.
+
+DIS – The Walt Disney Company
+
+CMCSA – Comcast Corp.
