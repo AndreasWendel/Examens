@@ -1,0 +1,2 @@
+colsample_bynode,learning_rate,max_depth,n_estimators,subsample
+0.7667818425587761,0.08804761772291346,13,200,0.6178994804139122
